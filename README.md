@@ -1,7 +1,7 @@
 springmvc-spring-hibernate
 ====================
 
-Template for building JEE app with JSF, Spring and Hibernate
+Template for building JEE app with Spring MVC, Spring and Hibernate
 - Simple form
 - Persistence
 - Internationalization
