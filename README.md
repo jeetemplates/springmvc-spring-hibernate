@@ -5,7 +5,7 @@ Template for building JEE app with Spring MVC, Spring and Hibernate
 - Simple form
 - Persistence
 - Internationalization
-- JSF handling exception
+- Handling exception
 
 Frameworks
 - JDK 7
